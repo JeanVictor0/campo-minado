@@ -1,0 +1,5 @@
+package junit;
+
+class Excessao {
+  
+}
