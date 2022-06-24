@@ -5,10 +5,10 @@ import java.util.Scanner;
 import modelo.*;
 
 class TabuleiroConsole {
-  private Tabuleiro tabuleiro;
+  private Teste tabuleiro;
   private Scanner entrada = new Scanner(System.in);
   
-  public TabuleiroConsole(Tabuleiro tabuleiro){
+  public TabuleiroConsole(Teste tabuleiro){
     this.tabuleiro = tabuleiro;
 
     this.executarJogo();
